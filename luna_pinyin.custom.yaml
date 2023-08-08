@@ -32,6 +32,8 @@ patch:
     # dependencies: # 反查
     #   - liangfen # 反查
   
+  # 开启自定义词库
+  "translator/enable_user_dict": true
   # 載入朙月拼音擴充詞庫
   "translator/dictionary": luna_pinyin.extended
   #  拼写纠错
