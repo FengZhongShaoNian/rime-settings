@@ -20,3 +20,6 @@ patch:
       ascii_mode: true
     kate:
       ascii_mode: true
+    # 让idea等应用默认使用英文输入模式
+    java:
+      ascii_mode: true
