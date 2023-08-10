@@ -1,0 +1,22 @@
+patch:
+  # 通知栏显示方式以及 ascii_mode 应用，与外观无关
+  show_notifications_via_notification_center: true
+
+  # 以下软件默认英文模式
+  app_options:
+    konsole:
+      ascii_mode: true
+    rustdesk:
+      ascii_mode: true
+    krunner:
+      ascii_mode: true
+    utools:
+      ascii_mode: true
+    plasmashell:
+      ascii_mode: true
+    latte-dock:
+      ascii_mode: true
+    dolphin:
+      ascii_mode: true
+    kate:
+      ascii_mode: true
