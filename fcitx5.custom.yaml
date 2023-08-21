@@ -21,5 +21,11 @@ patch:
     kate:
       ascii_mode: true
     # 让idea等应用默认使用英文输入模式
-    java:
+    # java_for_idea的来由：我把JetBrains Runtime的bin/java文件重命名为java_for_idea，
+    # 然后创建一个名为java的shell脚本来调用java_for_idea，从而将jvm的命令行名称由java变为java_for_idea
+    java_for_idea:
+      ascii_mode: true
+    java_for_clion:
+      ascii_mode: true
+    java_for_datagrip:
       ascii_mode: true
