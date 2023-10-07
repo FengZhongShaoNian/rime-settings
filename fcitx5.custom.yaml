@@ -29,3 +29,9 @@ patch:
       ascii_mode: true
     java_for_datagrip:
       ascii_mode: true
+    navicat:
+      ascii_mode: true
+    sunloginclient:
+      ascii_mode: true
+    another-redis-desktop-manager:
+      ascii_mode: true
