@@ -8,6 +8,8 @@ patch:
       ascii_mode: true
     blackbox:
       ascii_mode: true
+    gnome-terminal-server:
+      ascii_mode: true
     rustdesk:
       ascii_mode: true
     krunner:
