@@ -6,6 +6,8 @@ patch:
   app_options:
     konsole:
       ascii_mode: true
+    blackbox:
+      ascii_mode: true
     rustdesk:
       ascii_mode: true
     krunner:
