@@ -10,6 +10,10 @@ patch:
       ascii_mode: true
     gnome-terminal-server:
       ascii_mode: true
+    gnome-terminal:
+      ascii_mode: true
+    java:
+      ascii_mode: true
     rustdesk:
       ascii_mode: true
     krunner:
