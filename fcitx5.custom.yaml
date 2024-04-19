@@ -14,6 +14,8 @@ patch:
       ascii_mode: true
     java:
       ascii_mode: true
+    com.vixalien.sticky:
+      ascii_mode: true
     rustdesk:
       ascii_mode: true
     krunner:
