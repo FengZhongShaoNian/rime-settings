@@ -4,6 +4,8 @@ patch:
 
   # 以下软件默认英文模式
   app_options:
+    scrcpy:
+      ascii_mode: true
     konsole:
       ascii_mode: true
     blackbox:
